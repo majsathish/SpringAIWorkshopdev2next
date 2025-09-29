@@ -65,3 +65,19 @@ String getCurrentDateTime()
     
 }
 }
+
+
+MCP SERVERS
+    tools
+        @Mcptool
+    prompts
+        @McpPrompt
+    MCP Inspector is similar to actuator 
+
+
+observability
+
+
+github.com/com/habuma/nfjs-sampples
+
+dev2next
