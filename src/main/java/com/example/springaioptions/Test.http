@@ -1,8 +1,2 @@
-POST http://localhost:8080/ask
-Content-Type: application/json
-
-{
- "question"  : "My name is Sathish"
-}
-
+GET http://localhost:8080/tools
 
